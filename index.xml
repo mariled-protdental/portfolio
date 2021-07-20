@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maria Ledesma Protesita dental</title>
-    <link>mariled-protdental.github.io/portfolio/</link>
+    <link>/</link>
     <description>Recent content on Maria Ledesma Protesita dental</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>mariyo29@hotmail.com.ar (Maria Ledesma)</managingEditor>
-    <webMaster>mariyo29@hotmail.com.ar (Maria Ledesma)</webMaster><atom:link href="mariled-protdental.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>mariyo29@hotmail.com.ar (Maria Ledesma)</webMaster><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
